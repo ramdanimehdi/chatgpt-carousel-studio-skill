@@ -1,0 +1,4 @@
+interface:
+  display_name: "ChatGPT Carousel Studio"
+  short_description: "Personalized Arabic carousel design and editor workflow"
+  default_prompt: "Use $chatgpt-carousel-studio to create my branded carousel and editable studio."
